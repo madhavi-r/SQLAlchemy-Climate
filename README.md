@@ -16,6 +16,10 @@ Temperature Analysis
 
 ![temperature](Images/temperature.png)
 
+Stations Analysis
+
+![station-histogram](Images/station-histogram.png)
+
 Area Plot displaying daily normals
 
-![daily-normals](Images/daily-normals.png)
+![daily-normals](Images/daily_normals.png)
