@@ -7,3 +7,7 @@ Using Python, SQLAlchemy ORM queries and Pandas to do basic climate analysis and
 Step 2 - Climate App
 
 After completing initial analysis, design a Flask API to create routes based on the queries developed.
+
+Precipitation Analysis
+
+![precipitation](Images/precipitation.png)
