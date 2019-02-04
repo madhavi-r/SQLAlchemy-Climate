@@ -10,4 +10,4 @@ After completing initial analysis, design a Flask API to create routes based on 
 
 Precipitation Analysis
 
-![precipitation](Images/precipitation.png)
+![precipitation](Images/Precipitation.png)
